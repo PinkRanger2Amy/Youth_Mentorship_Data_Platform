@@ -59,14 +59,24 @@ SELECT interests, COUNT(*)
 FROM mentors
 GROUP BY interests;
 
-🧠 Analyst Takeaways
 
-Designed a repeatable ETL pipeline
+
+<img width="1296" height="649" alt="Screenshot 2026-01-16 at 2 27 50 PM" src="https://github.com/user-attachments/assets/7f4ac883-c7ec-4123-a443-ac0ca3a1bcbb" />
+
+
+<img width="1296" height="649" alt="Screenshot 2026-01-16 at 2 27 50 PM" src="https://github.com/user-attachments/assets/25b1dbc2-112e-4564-be6d-003e9dda5d04" />
+
+
+
+🧠 Analyst TakeawaysDesigned a repeatable ETL pipeline
 
 Cleaned and normalized real-world form data
 
 Preserved raw data for validation and reprocessing
 
 Built analysis-ready tables for reporting
+
+
+
 
 Applied scoring logic to support decision-making
